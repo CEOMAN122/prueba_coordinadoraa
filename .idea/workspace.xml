@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3bdaf65-802a-4b0d-b14a-e0763b2fc8d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/karate-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/users/logback-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/users/scenario1/feature/Scenario1.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/users/scenario1/feature/Scenario1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/users/scenario1/feature/json/data/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/users/scenario2/feature/Scenario2.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/users/scenario2/feature/Scenario2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/users/scenario2/feature/data/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/users/scenario3/feature/Scenario3.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/users/scenario3/feature/Scenario3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/users/scenario3/feature/data/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/karate-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/karate-labs-logo-ring.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/karate-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/karate-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/karate-progress-json.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/karate-summary-json.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/karate-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/karate-tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/karate-timeline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/res/Resemble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/res/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/res/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/res/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/res/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/res/jquery.tablesorter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/res/karate-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/res/karate-report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/res/vis.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/res/vis.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/src.test.java.recogidas.features.Recogida.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/karate-reports/src.test.java.recogidas.features.Recogida.karate-json.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2fyM5fgZmEdAwD0pgKTERqOWJNZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Cucumber Java.Scenario: Solicitar recogida con éxito.executor": "Run",
+    "Gradle.Build prueba_coordinadoraa.executor": "Run",
+    "Gradle.RecogidaSteps.executor": "Run",
+    "Gradle.Scenario1Test.testScenario1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/usuario/Documents/Coordinadora/prueba_coordinadoraa/src/test/java/users/scenario3/feature"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\usuario\Documents\Coordinadora\prueba_coordinadoraa\src\test\java\users\scenario3\feature" />
+      <recent name="C:\Users\usuario\Documents\Coordinadora\prueba_coordinadoraa\src\test\java\users\scenario2\feature" />
+      <recent name="C:\Users\usuario\Documents\Coordinadora\prueba_coordinadoraa\src\test\java\users\scenario1\feature\json\data" />
+      <recent name="C:\Users\usuario\Documents\Coordinadora\prueba_coordinadoraa\src\test\resources" />
+      <recent name="C:\Users\usuario\Documents\Coordinadora\prueba_coordinadoraa\src\test\java\users" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Scenario1Test.testScenario1">
+    <configuration name="Scenario: Solicitar recogida con éxito" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/recogidas/features/Recogida.feature" />
+      <option name="GLUE" value="com.intuit.karate" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="prueba_coordinadoraa.test" />
+      <option name="NAME_FILTER" value="^Solicitar recogida con éxito$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Solicitar recogida con éxito$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Solicitar recogida con éxito" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecogidaSteps" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;recogidas.RecogidaSteps&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Scenario1Test.testScenario1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;Scenario1Test.testScenario1&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Scenario1Test.testScenario1" />
+        <item itemvalue="Cucumber Java.Scenario: Solicitar recogida con éxito" />
+        <item itemvalue="Gradle.RecogidaSteps" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3bdaf65-802a-4b0d-b14a-e0763b2fc8d4" name="Changes" comment="" />
+      <created>1714768685040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714768685040</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
